@@ -153,26 +153,6 @@ This simulates real-world insurance pricing strategies.
 
 ---
 
-# 📊 Project Structure
-
-```
-insurance-pricing-project/
-│
-├── data/
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── modeling.ipynb
-│
-├── models/
-│   ├── xgboost_model.pkl
-│
-├── reports/
-│   ├── figures/
-│
-├── README.md
-```
-
----
 
 # 🚀 Future Improvements
 
